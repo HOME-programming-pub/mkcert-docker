@@ -1,5 +1,5 @@
 # mkcert-docker
-Generating self-signed certificates using [Docker](https://www.docker.com/) and [mkcert](https://github.com/FiloSottile/mkcert).
+Generating self-signed certificates for local development using [Docker](https://www.docker.com/) and [mkcert](https://github.com/FiloSottile/mkcert).
 
 ## Prerequisites
 Linux with recent Git, Docker and Bash installed.
