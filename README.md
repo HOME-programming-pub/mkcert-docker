@@ -32,7 +32,7 @@ This with generate the files
 ./gen/rootCA-key.pem
 ./gen/rootCA.pem
 ```
-Adapt the addresses as needed by changing the value of the host variable. Note that the file names of the first to files will then change.
+Adapt the addresses as needed by changing the value of the host variable. Note that the file names of the first two files will then change.
 
 ## Certificate Installation
 To make the certifcates work, they need to be configured in your application (1) while the rootCA needs to be installed in a (local) CA trust store of your browser or OS (2). The step (2) may be ommitted, however, then the certificate will be untrusted.
