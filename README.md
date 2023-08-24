@@ -20,10 +20,10 @@ hosts="artemis.hs-merseburg.de\
        localhost\
        127.0.0.1\
        ::1\
-       *.artemis\
        artemis\
        gitlab-internal\
-       gitlab-runner.internal"
+       gitlab-runner-internal\
+       mysql-internal"
 ```
 This with generate the files
 ```
